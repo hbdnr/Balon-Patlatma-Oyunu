@@ -1,3 +1,3 @@
 # BalonPatlatmaOyunu
 
-Projenin çalışabilmesi için Unity 2021.1.23f1 ve Visual Studio Professional sürümlerine ihtiyaç vardır.
+Projenin çalışabilmesi için Unity 2020.1.6 ve Visual Studio Community sürümlerine ihtiyaç vardır.
